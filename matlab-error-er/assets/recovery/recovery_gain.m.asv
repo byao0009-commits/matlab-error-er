@@ -1,0 +1,5 @@
+% Synthetic MATLAB Editor backup for the recovery exercise.
+% Save a working copy as recovery_gain.m before running it.
+gain = 2;
+inputValues = [1 2 3];
+disp(gain .* inputValues)

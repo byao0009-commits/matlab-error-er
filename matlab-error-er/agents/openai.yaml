@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATLAB 报错急诊室"
+  short_description: "为中国高校 MATLAB 与 Simulink 实验截图定位报错、给出分版本修复并核对结果"
+  default_prompt: "用 $matlab-error-er 分析我附上的实验截图，告诉我在 MATLAB 哪儿输入什么、哪一行要改，以及怎么验证。"
